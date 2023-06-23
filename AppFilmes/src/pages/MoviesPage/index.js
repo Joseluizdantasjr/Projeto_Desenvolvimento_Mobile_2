@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import { ActivityIndicator, SafeAreaView, ScrollView, StyleSheet, Text, View } from 'react-native';
+import { ActivityIndicator, SafeAreaView, ScrollView, StyleSheet } from 'react-native';
 import CardFilme from '../../components/CardFilme';
 export default function MoviesPage(){
   
